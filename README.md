@@ -5,3 +5,6 @@ Python script that retrieves details of all the books in SSN (my college) Librar
 ##Usage##
 
 	$ python steal.py
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arunvelsriram/stealbookdetails/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
